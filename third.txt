@@ -1,0 +1,20 @@
+$ git clone https://github.com/ishwar-soni/git-question-1.git   //clone the given link
+
+$ git init
+
+$ git  add git-question-1
+
+$ git commit -m "lets go"
+
+$ git branch dev     //creat dev branch
+
+$ git branch  //proof
+  dev
+* master
+
+$ git checkout dev
+
+
+
+
+
